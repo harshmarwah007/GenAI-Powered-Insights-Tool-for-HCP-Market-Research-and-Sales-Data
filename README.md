@@ -1,7 +1,6 @@
 # Case Study: GenAI-Powered Insights Tool for HCP Market Research and Sales Data
 
-## Background LINK 
-https://harshmarwah007.github.io/GenAI-Powered-Insights-Tool-for-HCP-Market-Research-and-Sales-Data/
+## Background
 
 You’re part of the **Data & AI team** in a pharmaceutical company. The **Commercial** and **Insights** teams are looking to build a solution that enables business users to ask **natural language questions** and receive meaningful insights from two primary sources:
 
